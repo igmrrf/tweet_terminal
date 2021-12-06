@@ -21,7 +21,7 @@ run `yarn`
 
 ### Tweeting (Node)
 
-Running node accepts parameters at process.argv. [0] is the path to node
+Running node accepts parameters on process.argv. [0] is the path to node
 [1] is the path of the file. from [2] and above are arguments that can be used [[Read more](https://nodejs.org/en/knowledge/command-line/how-to-parse-command-line-arguments/)]
 
 run `node index.js [tweet]`
